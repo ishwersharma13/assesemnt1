@@ -29,12 +29,10 @@
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/ishwersharma13/assessment1/assets/103954615/de4f3181-708c-4575-97e3-20d67cba33a3)
+![image](https://github.com/ishwersharma13/assesemnt1/assets/103954615/3bc1d0a4-6484-4b55-bdd1-b948db02e57b)
+![image](https://github.com/ishwersharma13/assesemnt1/assets/103954615/46071825-7d86-48c6-a3ea-0e7c1fd58307)
+![image](https://github.com/ishwersharma13/assesemnt1/assets/103954615/5b74fb0c-d4d7-4ca2-8937-560e85264c40)
+![image](https://github.com/ishwersharma13/assesemnt1/assets/103954615/4716d44e-14da-48a7-b9c8-7559c84be783)
+![image](https://github.com/ishwersharma13/assesemnt1/assets/103954615/4c59d165-cd5d-47f8-bf63-8d47dc0d3204)
+![image](https://github.com/ishwersharma13/assesemnt1/assets/103954615/e24962b1-9617-4042-b243-482123ccdf42)
 
-![Screenshot 2](https://github.com/ishwersharma13/assessment1/assets/103954615/9406ae8a-a704-4c21-9a79-990050284b94)
-
-![Screenshot 3](https://github.com/ishwersharma13/assessment1/assets/103954615/21e63be1-d091-47ec-a55b-1099c4c9a876)
-
-![Screenshot 4](https://github.com/ishwersharma13/assessment1/assets/103954615/3a23e7bf-77f8-4cef-9f2e-5bb1bd3ae381)
-
-![Screenshot 5](https://github.com/ishwersharma13/assessment1/assets/103954615/82ee27b9-4d61-4706-bbc4-7d00ad825d89)
